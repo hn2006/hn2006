@@ -1,15 +1,12 @@
 <h1 align="center">🚀 Hi, I'm <a href="https://portfolio-werbsite2006123acd.vercel.app/">Harshul Nawani</a> 👋</h1>
 <p align="center">
-  🔥 Full-Stack Developer | 💻 Open Source Contributor | 🎨 MERN
+  🔥 Full-Stack Developer | 💻 Open Source Contributor | 🎨 MERN Developer
 </p>
----
 
 ## 🛠 **Tech Stack & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,typescript,nextjs,tailwind,aws,docker,kubernetes,python,git,github,linux" />
 </p>
-
----
 
 ## 🚀 **Recent Projects**
 📌 **[E-Commerce Platform](https://github.com/your-username/ecommerce-website)** – Secure, scalable online shopping solution.  
