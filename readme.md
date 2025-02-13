@@ -16,10 +16,10 @@
 </p>
 
 ## 🚀 **Recent Projects**
-📌 **[E-Commerce Platform](https://github.com/your-username/ecommerce-website)** – Secure, scalable online shopping solution.  
-📌 **[Real-Time Chat App](https://github.com/your-username/chat-app)** – Socket.io-powered real-time messaging platform.  
+📌 **[E-Commerce Platform](https://github.com/hn2006/Full-Stack-Ecommerce-Website)** – Secure, scalable online shopping solution.  
+📌 **[Real-Time Chat App](https://github.com/hn2006/Full_Stack_Chat_Application)** – Socket.io-powered real-time messaging platform.  
 
-📌 **More Projects:** [GitHub Repositories](https://github.com/your-username?tab=repositories)  
+📌 **More Projects:** [GitHub Repositories](https://github.com/hn2006?tab=repositories)  
 
 ---
 
